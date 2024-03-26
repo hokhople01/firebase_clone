@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "428634825931",
+    "project_id": "fir-app-74586",
+    "storage_bucket": "fir-app-74586.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428634825931:android:5c125735769fe083c2674e",
+        "android_client_info": {
+          "package_name": "com.nata.flutterfirebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf5ieLi14UVlF5Xv7iJLeCn_MS73yLX5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
